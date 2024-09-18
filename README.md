@@ -1,0 +1,3 @@
+Basic Network Sniffer 🌐 
+Building a network sniffer in Python that captures and analyzes network traffic.
+A network sniffer, also known as a packet analyzer, is either software or hardware that can intercept data packets as they travel across a network. Admins use network sniffers to monitor network traffic at the packet level, helping ensure network health and security. Packet sniffers have evolved into continuous capture and recording systems that are powerful tools for troubleshooting any threat or network event. Teams that use these tools benefit from more efficient and accurate incident response, and faster resolution of cyber incidents, performance issues and network outages.
